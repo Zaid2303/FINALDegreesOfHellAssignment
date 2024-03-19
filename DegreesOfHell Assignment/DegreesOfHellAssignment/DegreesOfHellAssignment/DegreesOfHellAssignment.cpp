@@ -7,7 +7,7 @@
 
 using namespace std;
 
-const int NoRounds = 20;
+const int NoRounds = 50;
 
 int random() {
     return rand() % 10 + 1;
@@ -29,6 +29,7 @@ int main() {
     int roundNumber = 1;
 
     // Read file and create degrees
+    //STL Container
     vector<CSpace*> degreeList;
 
     ifstream degreeFile("degrees.txt");

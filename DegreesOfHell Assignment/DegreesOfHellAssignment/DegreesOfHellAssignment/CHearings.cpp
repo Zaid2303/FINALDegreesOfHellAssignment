@@ -3,6 +3,7 @@ using namespace std;
 
 istream& operator>>(istream& inputStream, CHearings& hearing)
 {
+	
 	return inputStream;
 }
 
