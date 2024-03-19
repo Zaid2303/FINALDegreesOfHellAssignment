@@ -73,7 +73,6 @@ int main() {
         cout << Player1.GetName() << " spins " << spin1 << endl;
         int oldPosition1 = Player1.GetPosition(); // Store the old position
 
-
         // Check if Player1 is about to land on Welcome Week space
         if (degreeList[Player1.GetPosition()]->IsWelcomeWeek()) {
             // Increase motivation and increment year
@@ -81,11 +80,8 @@ int main() {
             Player1.SetYear(Player1.GetYear() + 1);
             cout << Player1.GetName() << " attends Welcome Week and starts year " << Player1.GetYear() << " more motivated!" << endl;
         }
-        else {
-            //cout << Player1.GetName() << " lands on " << degreeList[Player1.GetPosition()]->GetName() << endl;
-        }
         Player1.Move(spin1, degreeList); // Move Player1
-        //cout << Player1.GetName() << " lands on " << degreeList[Player1.GetPosition()]->GetName() << endl;
+        
         cout << "" << endl;
 
         // Player2's turn
@@ -99,22 +95,30 @@ int main() {
             Player2.SetYear(Player2.GetYear() + 1);
             cout << Player2.GetName() << " attends Welcome Week and starts year " << Player2.GetYear() << " more motivated!" << endl;
         }
-        else {
-            //cout << Player2.GetName() << " lands on " << degreeList[Player2.GetPosition()]->GetName() << endl;
-        }
         Player2.Move(spin2, degreeList); // Move Player2
-        //cout << Player2.GetName() << " lands on " << degreeList[Player2.GetPosition()]->GetName() << endl;
-
-        // Check if players land on assessment space
-        // If so, handle assessment logic
-        // Implement logic to check if assessment is completed, completed by the current player, or by another player
-        // Deduct motivational cost, add achievement score, output appropriate messages
-
-        // Check if players land on Welcome Week space
-        // If so, increase motivation and increment year
-        // Output message accordingly
     }
 
+    // Output final success for each player and determine the winner
+    cout << "" << endl;
+    cout << "==============================" << endl;
+    cout << "Game Over" << std::endl;
+    cout << Player1.GetName() << " has achieved Success:" << Player1.GetSuccess() << endl;
+    cout << Player2.GetName() << " has achieved Success:" << Player2.GetSuccess() << endl;
+
+    // Determine the winner
+    string winner;
+    if (Player1.GetSuccess() > Player2.GetSuccess()) {
+        winner = Player1.GetName();
+    }
+    else if (Player2.GetSuccess() > Player1.GetSuccess()) {
+        winner = Player2.GetName();
+    }
+    else {
+        // If both players have the same success, it's a tie
+        winner = "It's a tie";
+    }
+
+    cout << winner << " wins." << endl;
     // Cleanup: Delete dynamically allocated degrees
     for (auto degree : degreeList) {
         delete degree;

@@ -93,9 +93,9 @@ void CPlayer::Move(int steps, const std::vector<CSpace*>& degreeList) {
                         helper->SetSuccess(helper->GetSuccess() + halfSuccessScore);
 
                         std::cout << "" << endl;
-                        std::cout << "You accepted help from " << helperName << ". Your motivation cost is halved and your success is increased by half." << std::endl;
+                        std::cout << "You accepted help from " << helperName << ". Your motivation (" << assessmentSpace->GetMotivationalCost() << ") cost is halved and your success ("<< assessmentSpace->GetSuccessScore() <<") is increased by half." << std::endl;
                         std::cout << "" << endl;
-                        std::cout << "You Both Complete " << assessmentSpace->GetName() << " for Motivation: " << assessmentSpace->GetMotivationalCost() << " and Success:" << assessmentSpace->GetSuccessScore() << std::endl;
+                        std::cout << "You Both Complete " << assessmentSpace->GetName() << " for Motivation: " << assessmentSpace->GetMotivationalCost()/2 << " and Success:" << assessmentSpace->GetSuccessScore()/2 <<" EACH!" << std::endl;
                         std::cout << "" << endl;
                         std::cout << GetName() << "'s motivation is " << GetMotivation() << " and success is " << GetSuccess() << std::endl;
                         std::cout << helperName << "'s motivation is " << helper->GetMotivation() << " and success is " << helper->GetSuccess() << std::endl;
