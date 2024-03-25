@@ -13,12 +13,13 @@ private:
     int mMotivation;
     int mSuccess;
     int mPosition;
+    int mAssignmentCount;
 
 public:
 
     static std::vector<CPlayer> players;
     // Constructor with default parameter values
-    CPlayer(const std::string& name, int year, int motivation, int success, int position);
+    CPlayer(const std::string& name, int year, int motivation, int success, int position, int assignmentCount);
 
     // Getters
     std::string GetName();
@@ -26,6 +27,7 @@ public:
     int GetMotivation();
     int GetSuccess();
     int GetPosition();
+    int GetAssignmentCount();
 
     // Setters
     void SetName(const std::string& name);
@@ -39,4 +41,7 @@ public:
 
     // Static function to add player to players vector
     static void AddPlayer(const CPlayer& player);
+
+    void ResetAssignmentCount();
+    void IncrementAssignmentCount();
 };

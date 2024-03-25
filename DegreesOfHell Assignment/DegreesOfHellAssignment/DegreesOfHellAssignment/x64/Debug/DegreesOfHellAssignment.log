@@ -1,6 +1,5 @@
-﻿  DegreeFactory.cpp
+﻿  CPlayer.cpp
   DegreesOfHellAssignment.cpp
-D:\Users\mzpatel2\Documents\FINALDegreesOfHellAssignment\DegreesOfHell Assignment\DegreesOfHellAssignment\DegreesOfHellAssignment\DegreesOfHellAssignment.cpp(52,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Users\mzpatel2\Documents\FINALDegreesOfHellAssignment\DegreesOfHell Assignment\DegreesOfHellAssignment\DegreesOfHellAssignment\DegreesOfHellAssignment.cpp(67,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating Code...
-D:\Users\mzpatel2\Documents\FINALDegreesOfHellAssignment\DegreesOfHell Assignment\DegreesOfHellAssignment\DegreesOfHellAssignment\DegreeFactory.cpp(64,1): warning C4715: 'NewDegree': not all control paths return a value
   DegreesOfHellAssignment.vcxproj -> D:\Users\mzpatel2\Documents\FINALDegreesOfHellAssignment\DegreesOfHell Assignment\DegreesOfHellAssignment\x64\Debug\DegreesOfHellAssignment.exe

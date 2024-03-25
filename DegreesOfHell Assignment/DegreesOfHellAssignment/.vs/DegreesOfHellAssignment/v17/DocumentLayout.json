@@ -3,44 +3,63 @@
   "WorkspaceRootPath": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CHearings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CHearings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreeFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\DegreeFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CWelcomeWeek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CWelcomeWeek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CHearings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CHearings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSpace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CSpace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreeFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\DegreeFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSkipClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CSkipClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CAssessments.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CAssessments.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\ENTERPRISE\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\XMEMORY||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CExtracurricular.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CExtracurricular.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CHearings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CHearings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CExtracurricular.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CExtracurricular.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CWelcomeWeek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CWelcomeWeek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSpace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CSpace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreeFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\DegreeFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CHearings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{536FBCE9-50DB-4ACC-B64D-FFCD2DF91115}|DegreesOfHellAssignment\\DegreesOfHellAssignment.vcxproj|solutionrelative:DegreesOfHellAssignment\\CHearings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
@@ -53,37 +72,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "CPlayer.cpp",
+              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.cpp",
+              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CPlayer.cpp",
+              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.cpp",
+              "RelativeToolTip": "DegreesOfHellAssignment\\CPlayer.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwDkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T14:01:45.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DegreeFactory.cpp",
               "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreeFactory.cpp",
               "RelativeDocumentMoniker": "DegreesOfHellAssignment\\DegreeFactory.cpp",
               "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreeFactory.cpp",
               "RelativeToolTip": "DegreesOfHellAssignment\\DegreeFactory.cpp",
-              "ViewState": "AQIAABoAAAAAAAAAAAAYwCwAAAAOAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-19T15:55:08.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CHearings.h",
-              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CHearings.h",
-              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CHearings.h",
-              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CHearings.h",
-              "RelativeToolTip": "DegreesOfHellAssignment\\CHearings.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-19T15:56:58.034Z",
+              "DocumentIndex": 2,
+              "Title": "DegreesOfHellAssignment.cpp",
+              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp",
+              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp",
+              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp",
+              "RelativeToolTip": "DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T14:04:59.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "CPlayer.h",
+              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.h",
+              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CPlayer.h",
+              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.h",
+              "RelativeToolTip": "DegreesOfHellAssignment\\CPlayer.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-19T14:07:36.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSpace.cpp",
+              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSpace.cpp",
+              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CSpace.cpp",
+              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSpace.cpp",
+              "RelativeToolTip": "DegreesOfHellAssignment\\CSpace.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T14:01:43.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CWelcomeWeek.cpp",
+              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CWelcomeWeek.cpp",
+              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CWelcomeWeek.cpp",
+              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CWelcomeWeek.cpp",
+              "RelativeToolTip": "DegreesOfHellAssignment\\CWelcomeWeek.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T15:36:47.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CExtracurricular.cpp",
+              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CExtracurricular.cpp",
+              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CExtracurricular.cpp",
+              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CExtracurricular.cpp",
+              "RelativeToolTip": "DegreesOfHellAssignment\\CExtracurricular.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T11:35:42.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CSkipClass.cpp",
+              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSkipClass.cpp",
+              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CSkipClass.cpp",
+              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSkipClass.cpp",
+              "RelativeToolTip": "DegreesOfHellAssignment\\CSkipClass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T12:20:57.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CExtracurricular.h",
+              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CExtracurricular.h",
+              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CExtracurricular.h",
+              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CExtracurricular.h",
+              "RelativeToolTip": "DegreesOfHellAssignment\\CExtracurricular.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-25T11:35:36.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CHearings.cpp",
               "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CHearings.cpp",
               "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CHearings.cpp",
@@ -96,7 +206,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "CAssessments.cpp",
+              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CAssessments.cpp",
+              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CAssessments.cpp",
+              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CAssessments.cpp",
+              "RelativeToolTip": "DegreesOfHellAssignment\\CAssessments.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T11:43:28.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.39.33519\\include\\xmemory",
+              "ViewState": "AQIAAMICAAAAAAAAAAAcwNYCAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-25T15:33:53.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CSpace.h",
+              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSpace.h",
+              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CSpace.h",
+              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSpace.h",
+              "RelativeToolTip": "DegreesOfHellAssignment\\CSpace.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-19T15:50:37.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "DegreeFactory.h",
               "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreeFactory.h",
               "RelativeDocumentMoniker": "DegreesOfHellAssignment\\DegreeFactory.h",
@@ -109,92 +256,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CSpace.h",
-              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSpace.h",
-              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CSpace.h",
-              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSpace.h",
-              "RelativeToolTip": "DegreesOfHellAssignment\\CSpace.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "DocumentIndex": 14,
+              "Title": "CHearings.h",
+              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CHearings.h",
+              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CHearings.h",
+              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CHearings.h",
+              "RelativeToolTip": "DegreesOfHellAssignment\\CHearings.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-19T15:50:37.353Z",
+              "WhenOpened": "2024-03-19T15:56:58.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CWelcomeWeek.cpp",
-              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CWelcomeWeek.cpp",
-              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CWelcomeWeek.cpp",
-              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CWelcomeWeek.cpp",
-              "RelativeToolTip": "DegreesOfHellAssignment\\CWelcomeWeek.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-19T15:36:47.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "xstring",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
               "ViewState": "AQIAALQIAAAAAAAAAAAnwMAIAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-19T15:14:22.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CPlayer.h",
-              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.h",
-              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CPlayer.h",
-              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.h",
-              "RelativeToolTip": "DegreesOfHellAssignment\\CPlayer.h",
-              "ViewState": "AQIAABoAAAAAAAAAAAAxwAsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-19T14:07:36.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DegreesOfHellAssignment.cpp",
-              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp",
-              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp",
-              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp",
-              "RelativeToolTip": "DegreesOfHellAssignment\\DegreesOfHellAssignment.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-19T14:04:59.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CPlayer.cpp",
-              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.cpp",
-              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CPlayer.cpp",
-              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CPlayer.cpp",
-              "RelativeToolTip": "DegreesOfHellAssignment\\CPlayer.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-19T14:01:45.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CSpace.cpp",
-              "DocumentMoniker": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSpace.cpp",
-              "RelativeDocumentMoniker": "DegreesOfHellAssignment\\CSpace.cpp",
-              "ToolTip": "D:\\Users\\mzpatel2\\Documents\\FINALDegreesOfHellAssignment\\DegreesOfHell Assignment\\DegreesOfHellAssignment\\DegreesOfHellAssignment\\CSpace.cpp",
-              "RelativeToolTip": "DegreesOfHellAssignment\\CSpace.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-19T14:01:43.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T15:14:22.661Z"
             }
           ]
         }

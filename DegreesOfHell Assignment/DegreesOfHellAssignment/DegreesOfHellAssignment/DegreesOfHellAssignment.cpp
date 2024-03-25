@@ -8,22 +8,37 @@
 using namespace std;
 
 const int NoRounds = 50;
+const int NumPlayers = 2;
 
-int random() {
-    return rand() % 10 + 1;
+int Random()
+{
+    return static_cast<int>(static_cast<double> (rand()) / (RAND_MAX + 1) * 10.0f + 1);
 }
 
 int main() {
-    // Display welcome message
+    int randomSeedNum;
+    ifstream seedFile("seed.txt");
+    if (seedFile.is_open()) {
+        while (seedFile) {
+            int SeedNumber = 0;
+            seedFile >> SeedNumber;
+            randomSeedNum = SeedNumber;
+            
+        }
+    }
+    else {
+        cout << "file couldn't be opened!" << endl;
+    }
 
-
+    srand(randomSeedNum);
     // Create players Vyvyan and Rick with initial values
-    CPlayer Player1("Vyvyan", 1, 1000, 0, 1);
-    CPlayer Player2("Rick", 1, 1000, 0, 1);
+    CPlayer Player1("Vyvyan", 1, 1000, 0, 1, 0);
+    CPlayer Player2("Rick", 1, 1000, 0, 1, 0);
 
     // Add players to the game
     CPlayer::AddPlayer(Player1);
     CPlayer::AddPlayer(Player2);
+
 
     // Initialize round number
     int roundNumber = 1;
@@ -67,8 +82,8 @@ int main() {
         cout << "_________" << endl;
         cout << "" << endl;
         // Generate a random number between 1 and 10 for each player's turn
-        int spin1 = random();
-        int spin2 = random();
+        int spin1 = Random();
+        int spin2 = Random();
 
         // Player1's turn
         cout << Player1.GetName() << " spins " << spin1 << endl;
@@ -81,22 +96,75 @@ int main() {
             Player1.SetYear(Player1.GetYear() + 1);
             cout << Player1.GetName() << " attends Welcome Week and starts year " << Player1.GetYear() << " more motivated!" << endl;
         }
+        //Check if the player is about to land on Plagiarism Hearing space
+        else if (degreeList[Player1.GetPosition()]->IsPlagiarismHearing()) {
+            cout << " and supports their friend" << endl;
+            cout << Player1.GetName() << "'s motivation is " <<Player1.GetMotivation() << " and success is " << Player1.GetSuccess() << std::endl;
+            degreeList[Player1.GetPosition()]->ResetIsPlagiarismHearing();
+        }
+        // Check if the player is about to land on Plagiarism Hearing space
+        else if (degreeList[Player1.GetPosition()]->IsAccusedOfPlagiarism()) {
+            cout << " and goes to the hearing" << endl;
+            cout << Player1.GetName() << " loses motivation" << endl;
+            cout << Player1.GetName() << "'s motivation is " << Player1.GetMotivation() << " and success is " << Player1.GetSuccess() << std::endl;
+            degreeList[Player1.GetPosition()]->ResetIsAccusedOfPlagiarism();
+        }
+        // Check if the player is about to land on Plagiarism Hearing space
+        else if (degreeList[Player1.GetPosition()]->IsSkipClasses()) {
+            cout << " and hangs out with their dodgy mates" << endl;
+            cout << Player1.GetName() << "'s motivation is " << Player1.GetMotivation() << " and success is " << Player1.GetSuccess() << std::endl;
+            degreeList[Player1.GetPosition()]->ResetIsSkipClasses();
+        }
+        else if (degreeList[Player1.GetPosition()]->IsSomethingElse())
+        {
+            cout << Player1.GetName() << "'s motivation is " << Player1.GetMotivation() << " and success is " << Player1.GetSuccess() << std::endl;
+            degreeList[Player1.GetPosition()]->ResetIsSomethingElse();
+        }
+
         Player1.Move(spin1, degreeList); // Move Player1
-        
+
         cout << "" << endl;
 
         // Player2's turn
         cout << Player2.GetName() << " spins " << spin2 << endl;
         int oldPosition2 = Player2.GetPosition(); // Store the old position
 
-        // Check if Player2 is about to land on Welcome Week space
-        if (degreeList[Player2.GetPosition()]->IsWelcomeWeek()) {
+        // Check if Player1 is about to land on Welcome Week space
+        if (degreeList[Player1.GetPosition()]->IsWelcomeWeek()) {
             // Increase motivation and increment year
-            Player2.SetMotivation(Player2.GetMotivation() + 250);
-            Player2.SetYear(Player2.GetYear() + 1);
-            cout << Player2.GetName() << " attends Welcome Week and starts year " << Player2.GetYear() << " more motivated!" << endl;
+            Player1.SetMotivation(Player1.GetMotivation() + 250);
+            Player1.SetYear(Player1.GetYear() + 1);
+            cout << Player1.GetName() << " attends Welcome Week and starts year " << Player1.GetYear() << " more motivated!" << endl;
+        }
+        //Check if the player is about to land on Plagiarism Hearing space
+        else if (degreeList[Player1.GetPosition()]->IsPlagiarismHearing()) {
+            cout << " and supports their friend" << endl;
+            cout << Player1.GetName() << "'s motivation is " << Player1.GetMotivation() << " and success is " << Player1.GetSuccess() << std::endl;
+            degreeList[Player1.GetPosition()]->ResetIsPlagiarismHearing();
+        }
+        // Check if the player is about to land on Plagiarism Hearing space
+        else if (degreeList[Player1.GetPosition()]->IsAccusedOfPlagiarism()) {
+            cout << " and goes to the hearing" << endl;
+            cout << Player1.GetName() << " loses motivation" << endl;
+            cout << Player1.GetName() << "'s motivation is " << Player1.GetMotivation() << " and success is " << Player1.GetSuccess() << std::endl;
+            degreeList[Player1.GetPosition()]->ResetIsAccusedOfPlagiarism();
+        }
+        // Check if the player is about to land on Plagiarism Hearing space
+        else if (degreeList[Player1.GetPosition()]->IsSkipClasses()) {
+            cout << " and hangs out with their dodgy mates" << endl;
+            cout << Player1.GetName() << "'s motivation is " << Player1.GetMotivation() << " and success is " << Player1.GetSuccess() << std::endl;
+            degreeList[Player1.GetPosition()]->ResetIsSkipClasses();
+        }
+        else if (degreeList[Player1.GetPosition()]->IsSomethingElse())
+        {
+            cout << Player1.GetName() << "'s motivation is " << Player1.GetMotivation() << " and success is " << Player1.GetSuccess() << std::endl;
+            degreeList[Player1.GetPosition()]->ResetIsSomethingElse();
         }
         Player2.Move(spin2, degreeList); // Move Player2
+
+
+
+
     }
 
     // Output final success for each player and determine the winner
@@ -127,3 +195,4 @@ int main() {
 
     return 0;
 }
+
