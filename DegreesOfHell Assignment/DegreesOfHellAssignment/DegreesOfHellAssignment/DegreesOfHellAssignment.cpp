@@ -31,6 +31,7 @@ int main() {
     }
 
     srand(randomSeedNum);
+
     // Create players Vyvyan and Rick with initial values
     CPlayer Player1("Vyvyan", 1, 1000, 0, 1, 0);
     CPlayer Player2("Rick", 1, 1000, 0, 1, 0);
@@ -64,7 +65,7 @@ int main() {
     }
 
     // Seed the random number generator with the current time
-    srand(time(nullptr));
+    //srand(time(nullptr));
 
     cout << "Welcome to Scumbag College" << endl;
     cout << "" << endl;
